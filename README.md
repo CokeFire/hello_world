@@ -1,2 +1,4 @@
 # hello_world
-This is a hello world document
+10/26/2016
+CokeFire
+Master of the solar system
